@@ -6,7 +6,7 @@ public class ProductInfoTest {
 	@Test
 	public void Demo2()
 	{
-		System.out.println("Welcome to Java");
+		System.out.println("Welcome to Java and selenium");
 	}
 
 }
